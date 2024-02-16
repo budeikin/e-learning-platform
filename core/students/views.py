@@ -64,6 +64,7 @@ class StudentCourseDetailView(DetailView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data()
         course = self.get_object()
+        context['objects'] = self.object.modules.all()
         if 'module_id' in self.kwargs:
             context['module'] = course.modules.get(id=self.kwargs['module_id'])
         else:
