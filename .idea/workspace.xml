@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b20bed46-5ca5-4c9a-a464-cc35f78a372e" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/core/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/courses/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/students/templates/students/course/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/students/templates/students/course/detail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,8 @@
       <workItem from="1707892899848" duration="3939000" />
       <workItem from="1707980717964" duration="1697000" />
       <workItem from="1708068669609" duration="990000" />
-      <workItem from="1708153932652" duration="2621000" />
+      <workItem from="1708153932652" duration="3134000" />
+      <workItem from="1708236521574" duration="2322000" />
     </task>
     <servers />
   </component>
