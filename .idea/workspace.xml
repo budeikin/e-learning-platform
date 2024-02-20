@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b20bed46-5ca5-4c9a-a464-cc35f78a372e" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/core/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/core/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/courses/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/students/templates/students/course/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/students/templates/students/course/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/core/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -83,7 +86,9 @@
       <workItem from="1707980717964" duration="1697000" />
       <workItem from="1708068669609" duration="990000" />
       <workItem from="1708153932652" duration="3134000" />
-      <workItem from="1708236521574" duration="2322000" />
+      <workItem from="1708236521574" duration="2659000" />
+      <workItem from="1708328073280" duration="1344000" />
+      <workItem from="1708411972687" duration="2952000" />
     </task>
     <servers />
   </component>
