@@ -1,11 +1,15 @@
-from django.urls import path
-from .views import SubjectListApiView, SubjectDetailApiView, CourseListView, CourseEnrollView
+from django.urls import path, include
+from rest_framework import routers
+from .views import SubjectListApiView, SubjectDetailApiView, CourseViewSet
+
+router = routers.DefaultRouter()
+router.register('courses', CourseViewSet)
 
 app_name = 'courses'
 
 urlpatterns = [
     path('subjects/', SubjectListApiView.as_view(), name='subject_list'),
-    path('courses/', CourseListView.as_view(), name='course_list'),
     path('subjects/<int:pk>/', SubjectDetailApiView.as_view(), name='subject_detail'),
-    path('courses/<pk>/enroll/', CourseEnrollView.as_view(), name='course_enroll')
+    path('', include(router.urls))
+
 ]
