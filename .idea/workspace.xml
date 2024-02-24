@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b20bed46-5ca5-4c9a-a464-cc35f78a372e" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/courses/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/courses/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/courses/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/courses/api/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/courses/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/courses/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/core/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 3
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "021e2fff",
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2bqXpba1sQ9bjaO1AbwWPXPBBNM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -88,7 +89,8 @@
       <workItem from="1708411972687" duration="3036000" />
       <workItem from="1708497304444" duration="1658000" />
       <workItem from="1708586195186" duration="1801000" />
-      <workItem from="1708664749123" duration="234000" />
+      <workItem from="1708664749123" duration="401000" />
+      <workItem from="1708757359415" duration="2557000" />
     </task>
     <servers />
   </component>
